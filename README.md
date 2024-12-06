@@ -21,6 +21,8 @@
 # Flying-Toasters
 A tribute to the original 1-bit Macintosh After Dark 2.0 screensaver prototype
 
+![Flying Toasters! Prototype by Jack Eastman](/src/tomoya-ikeda-after-dark-flying-toasters-prototype.png)
+
 # Flying Toasters!, Berkeley Systems, 1989
 
 While working on his Ph.D. in the mid ‘80s, Jack Eastman became interested in the possibilities of personal computing with the then new Macintosh. He wanted a screen saver where you could change the channel, so he could show all the different kinds of algorithmic drawings he was doing. Unfortunately in those days there was no concept of a screen saver in the operating system.
