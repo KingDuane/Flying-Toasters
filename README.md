@@ -31,8 +31,6 @@ A friend of Jack’s from the Lawrence Berkeley Laboratory, Patrick Beard, had g
 
 Tomoya Ikeda (池田友也) played a key part in the evolution of the famous After Dark Flying Toasters! screensaver. The original prototype artwork was done by Jack Eastman. Ikeda was brought in as a contractor to draw the final 1-bit artwork. Later versions of the toasters were drawn in color by Igor Gasowski and eventually rendered and animated in 3D by Jarir Maani.
 
-After Dark 2.0 Flying Toasters! © 1990 Berkeley Systems Inc. by Jack Eastman, Bruce Burkhalter, and Patrick Beard. Artwork by Tomoya Ikeda.
-
 —
 
 To run the animation with Pygame:
@@ -50,3 +48,7 @@ The main advantages of using Pygame
 - Works on any computer with Python
 - Provides a window system with proper event handling
 - Easier testing and development before deploying to hardware
+
+—
+
+After Dark 2.0 Flying Toasters! © 1990 Berkeley Systems Inc. by Jack Eastman, Bruce Burkhalter, and Patrick Beard. Artwork by Tomoya Ikeda.
